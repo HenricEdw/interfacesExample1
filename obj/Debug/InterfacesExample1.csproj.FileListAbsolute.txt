@@ -1,0 +1,6 @@
+C:\CodeProjects\InterfacesExample1\bin\Debug\InterfacesExample1.exe.config
+C:\CodeProjects\InterfacesExample1\bin\Debug\InterfacesExample1.exe
+C:\CodeProjects\InterfacesExample1\bin\Debug\InterfacesExample1.pdb
+C:\CodeProjects\InterfacesExample1\obj\Debug\InterfacesExample1.csprojAssemblyReference.cache
+C:\CodeProjects\InterfacesExample1\obj\Debug\InterfacesExample1.exe
+C:\CodeProjects\InterfacesExample1\obj\Debug\InterfacesExample1.pdb
